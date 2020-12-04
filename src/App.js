@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import {BrowserRouter} from 'react-router-dom';
 
-import Blog from './containers/Blog/Posts/Blog';
+import Blog from './containers/Blog/Blog'
 
 class App extends Component {
   render() {
